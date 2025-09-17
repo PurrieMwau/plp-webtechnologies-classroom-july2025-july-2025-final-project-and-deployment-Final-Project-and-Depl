@@ -51,7 +51,7 @@ The goal of this project is to offer a one-stop platform for Kenyans interested 
 
 ## 🌍 Live Demo
 
-[Add your deployed site URL here once live]
+https://purriemwau.github.io/plp-webtechnologies-classroom-july2025-july-2025-final-project-and-deployment-Final-Project-and-Depl/
 
 ## 🙌 Author
 
