@@ -1,90 +1,62 @@
-# 📦 Final Assignment: Build, Organize, and Deploy a Multipage Website
+# ShefaFlow Kenya
 
-You're now ready to bring everything together—HTML, CSS, JavaScript, planning, structure, and deployment. This final project challenges you to **conceptualize, build, and deploy a multi-page website** that is responsive, interactive, and ready for the real world.
+ShefaFlow Kenya is a multi-page, responsive website designed to empower beginner investors across Kenya. The site provides information, guidance, and resources to help users make smart investment decisions.
 
-This assignment will guide you from planning your site all the way to deploying it online. Let’s make your project *production-worthy*! 🚀
+## 🚀 Project Purpose
 
----
+The goal of this project is to offer a one-stop platform for Kenyans interested in investing, regardless of their experience or budget. The website provides personalized advice, information on investment options, and connections to trusted institutions.
 
-## 🌐🎯 Part 1: Planning and Organizing a Multipage Website
+## 🗂️ Project Structure
 
-Before you write any code, take time to plan:
+```
+/
+├── index.html          # Home page
+├── about.html          # About ShefaFlow Kenya
+├── services.html       # Services offered
+├── contact.html        # Contact form
+├── Styles/
+│   └── styles.css      # CSS styles
+├── Scripts/
+│   └── script.js       # JavaScript for interactivity
+└── README.md           # Project documentation
+```
 
-* Define your website's purpose (portfolio, product showcase, blog, etc.)
-* Outline 3–5 pages (e.g., Home, About, Services, Contact, Gallery)
-* Sketch or describe the layout of each page
-* Map out internal navigation (how pages link to one another)
+## 🌐 Pages Overview
 
-**Goal:** Show intentional structure and user journey across the site.
+- **Home:** Welcome message and introduction to ShefaFlow Kenya.
+- **About:** Background and mission of the platform.
+- **Services:** Details on investment advice and features.
+- **Contact:** Form for users to reach out with questions or feedback.
 
----
+## 💡 Features
 
-## 🌍💻 Part 2: Build the Website Using HTML5, CSS, and JavaScript
+- Responsive design for mobile and desktop
+- Consistent header and footer across all pages
+- Interactive elements (e.g., highlight section, form validation)
+- Clean, organized codebase
 
-Using your plan, begin building:
+## 🛠️ Technologies Used
 
-* Use HTML5 for semantic structure
-* Apply CSS for responsive layout, styling, and animations
-* Use JavaScript to add interactivity (menus, forms, toggles, dynamic content)
+- HTML5
+- CSS3
+- JavaScript
 
-Each page should:
+## 📦 How to Run Locally
 
-* Be mobile-responsive
-* Share a consistent layout/header/footer
-* Include at least one interactive element (e.g., form validation, toggle menu, animation on scroll)
+1. Clone the repository:
+   ```sh
+   git clone <your-repo-url>
+   ```
+2. Open `index.html` in your browser.
 
-**Goal:** Integrate everything you’ve learned in a cohesive, functioning project.
+## 🌍 Live Demo
 
----
+[Add your deployed site URL here once live]
 
-## 🛠️🚀 Part 3: Best Practices for Code Organization
+## 🙌 Author
 
-Before deployment, refactor your project to follow production-friendly practices:
-
-* Organize files in folders (`/css`, `/js`, `/images`, etc.)
-* Write clean, modular, and commented code
-* Use meaningful file names and relative paths
-* Validate your HTML/CSS and test on different screen sizes
-
-**Goal:** Prepare your codebase to be readable, maintainable, and scalable.
-
----
-
-## 🌐🚀 Part 4: Introduction to Hosting and Deployment
-
-Once your project is complete, choose a method to **host your site online**.
-
-You can use:
-
-* **GitHub Pages** (great for portfolios and static sites)
-* **Netlify** (powerful CI/CD features and easy form support)
-* **Vercel** (lightning-fast deployment for frontend projects)
-
-Deploy your project and confirm that:
-
-* All links and scripts work
-* It loads properly on mobile and desktop
-* It has a clear, shareable URL
-
-**Goal:** Publish your work online and make it accessible to the world.
+Created as a final project for the PLP Web Technologies course.
 
 ---
 
-## Deliverables
-
-1. A GitHub repository containing:
-
-   * Your complete project code, properly organized
-   * A `README.md` file explaining your project purpose, structure, and live URL
-2. A live deployed website (hosted via GitHub Pages, Netlify, or Vercel)
-
----
-
-## Outcome
-
-* Clarity and thoroughness of planning documentation
-* Proper use of HTML5, CSS, and JavaScript across multiple pages
-* Responsive and accessible design
-* Clean, well-organized, and commented code
-* Successful live deployment with a working link
-* Evidence of following best practices
+&copy; 2025 ShefaFlow Kenya
